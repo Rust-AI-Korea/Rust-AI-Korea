@@ -1,5 +1,7 @@
 # Hi there, I'm Rust-AI-Korea 👋
 
+<img width="1066" height="952" alt="Rust-AI메인 (압축)" src="https://github.com/user-attachments/assets/af18c500-e4e4-4de7-82b5-ff89911a1c9b" />
+
 **국내 러스트(Rust) 기반 인공지능(AI) 시스템 엔지니어링과 오픈소스 생태계를 이끌어가는 커뮤니티 허브입니다.**
 
 저희는 시스템 성능의 안정성과 고속 추론 능력을 갖춘 러스트를 활용해 AI 기술을 연구하고, 관련 지식을 공유합니다.
