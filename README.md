@@ -17,8 +17,8 @@
 ---
 
 ## 🚀 Explore Our Projects & Hubs
-* **[AweSome-Rust-AI-Korea](https://github.com/Rust-AI-Korea/awesome-rust-ai-korea):** 국내외 러스트 AI 생태계의 라이브러리(Candle, Burn, Mistral.rs 등), 튜토리얼, 아티클을 모아둔 종합 큐레이션 허브입니다.
-* **[Book Examples](https://github.com/Rust-AI-Korea/Book-Learning-Rust-AI):** 《AI 개발자를 위한 러스트 프로그래밍》 실습 및 예제 코드 저장소입니다.
+* **[AweSome-Rust-AI](https://github.com/Rust-AI-Korea/awesome-rust-ai-korea):** 국내외 러스트 AI 생태계의 라이브러리(Candle, Burn, Mistral.rs 등), 튜토리얼, 아티클을 모아둔 종합 큐레이션 허브입니다.
+* **[Book-Learning-Rust-AI example](https://github.com/Rust-AI-Korea/Book-Learning-Rust-AI):** 《AI 개발자를 위한 러스트 프로그래밍》 실습 및 예제 코드 저장소입니다.
 
 ---
 
