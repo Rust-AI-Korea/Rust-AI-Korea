@@ -12,7 +12,7 @@
 ### 《AI 개발자를 위한 러스트 프로그래밍》
 * **내용 요약:** 러스트 기초부터 스택/힙 메모리 모델, 딥러닝 프레임워크 바닥부터 구현하기, 자동 미분, 그리고 Transformer 아키텍처까지 완벽하게 다룬 595페이지의 기술서적입니다.
 * [교보문고 POD 및 관련 소스 코드 확인하기](https://product.kyobobook.co.kr/detail/S000221731105)
-* ()
+* (https://github.com/Rust-AI-Korea/Book-Learning-Rust-AI)
 
 ---
 
